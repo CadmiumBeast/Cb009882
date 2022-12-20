@@ -1,0 +1,204 @@
+h1{
+    margin-left: 3em;
+}
+body{
+    background-color: rgba(96, 216, 85, 0.5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#guestDetails{
+    padding-top: 2em;    
+}
+#guestDetails input{
+    height: 2em;
+    width: 16em;
+    background-color: rgba(79, 83, 76, 0.3) ;
+    border-radius: 0.5em;
+    border: none;
+}
+fieldset{
+    background-color: rgba(150, 145, 145, 0.5);
+    margin-bottom: 3em;
+    margin-left: 5em;
+}
+#date{
+    border-radius: 2em;
+    background-color: rgba(141, 134, 134, 0.2);
+}
+#ticketBooking{
+    position: absolute;
+    text-align: center;
+    
+}
+#guestDetails select{
+    background-color: rgba(83, 76, 76, 0.3);
+}
+#slAd{
+    width: 3em;
+}
+.slAD{
+    padding-top: 0.5em;
+    display: flex;   
+}
+.slAD input[type="number"]{
+    text-align: center;
+    border: none;
+    background-color: rgba(83, 76, 76, 0.3);
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0em;
+}
+.slAD button{
+    background-color:rgba(83, 76, 76, 0.3);
+    color: antiquewhite;
+    border-top-color: rgba(83, 76, 76, 0.3);
+    border-bottom-color: rgba(83, 76, 76, 0.3);
+    
+    
+}
+.slAD #decrement{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.5em 0em 0em 0.5em;
+    margin: 0 0 0 10em;
+    border-left-color: rgba(83, 76, 76, 0.3);
+    
+}
+.slAD #increment{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0 0.5em 0.5em 0;
+    border-right-color: rgba(83, 76, 76, 0.3);
+} 
+#slCH{
+    width: 3em;
+}
+.slCH{
+    padding-top: 0.5em;
+    display: flex;   
+}
+.slCH input[type="number"]{
+    text-align: center;
+    border: none;
+    background-color: rgba(83, 76, 76, 0.3);
+}
+
+.slCH button{
+    background-color:rgba(83, 76, 76, 0.3);
+    color: antiquewhite;
+    border-top-color: rgba(83, 76, 76, 0.3);
+    border-bottom-color: rgba(83, 76, 76, 0.3);
+    
+    
+}
+.slCH #decrement1{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.5em 0em 0em 0.5em;
+    margin: 0 0 0 10em;
+    border-left-color: rgba(83, 76, 76, 0.3);
+    
+}
+.slCH #increment1{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0 0.5em 0.5em 0;
+    border-right-color: rgba(83, 76, 76, 0.3);
+} 
+#foAd{
+    width: 3em;
+}
+.foAD{
+    padding-top: 0.5em;
+    display: flex;   
+}
+.foAD input[type="number"]{
+    text-align: center;
+    border: none;
+    background-color: rgba(83, 76, 76, 0.3);
+}
+
+.foAD button{
+    background-color:rgba(83, 76, 76, 0.3);
+    color: antiquewhite;
+    border-top-color: rgba(83, 76, 76, 0.3);
+    border-bottom-color: rgba(83, 76, 76, 0.3);
+    
+    
+}
+.foAD #decrement2{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.5em 0em 0em 0.5em;
+    margin: 0 0 0 7.1em;
+    border-left-color: rgba(83, 76, 76, 0.3);
+    
+}
+.foAD #increment2{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0 0.5em 0.5em 0;
+    border-right-color: rgba(83, 76, 76, 0.3);
+} 
+#foCH{
+    width: 3em;
+}
+.foCH{
+    padding-top: 0.5em;
+    display: flex;   
+}
+.foCH input[type="number"]{
+    text-align: center;
+    border: none;
+    background-color: rgba(83, 76, 76, 0.3);
+}
+
+.foCH button{
+    background-color:rgba(83, 76, 76, 0.3);
+    color: antiquewhite;
+    border-top-color: rgba(83, 76, 76, 0.3);
+    border-bottom-color: rgba(83, 76, 76, 0.3);
+    
+    
+}
+.foCH #decrement3{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.5em 0em 0em 0.5em;
+    margin: 0 0 0 7.1em;
+    border-left-color: rgba(83, 76, 76, 0.3);
+    
+}
+.foCH #increment3{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0 0.5em 0.5em 0;
+    border-right-color: rgba(83, 76, 76, 0.3);
+}
+#iNf{
+    width: 3em;
+}
+.iNf{
+    padding-top: 0.5em;
+    display: flex;   
+}
+.iNf input[type="number"]{
+    text-align: center;
+    border: none;
+    background-color: rgba(83, 76, 76, 0.3);
+}
+
+.iNf button{
+    background-color:rgba(83, 76, 76, 0.3);
+    color: antiquewhite;
+    border-top-color: rgba(83, 76, 76, 0.3);
+    border-bottom-color: rgba(83, 76, 76, 0.3);
+    
+    
+}
+.iNf #decrement4{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0.5em 0em 0em 0.5em;
+    margin: 0 0 0 11em;
+    border-left-color: rgba(83, 76, 76, 0.3);
+    
+}
+.iNf #increment4{
+    padding: 0.5em 1em 0.5em 1em;
+    border-radius: 0 0.5em 0.5em 0;
+    border-right-color: rgba(83, 76, 76, 0.3);
+} 
